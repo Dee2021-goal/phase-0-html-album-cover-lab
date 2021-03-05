@@ -1,4 +1,4 @@
-# HTML Album Cover
+                                                                                                                                   # HTML Album Cover
 
 ![from the 'Happy' music video by Pharrell Williams](https://after-school-assets.s3.amazonaws.com/happy.gif)
 
